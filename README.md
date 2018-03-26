@@ -2,7 +2,7 @@
 
 Hi guys :blush:, this my sem mini project Student_Authentication system. 
 I have used html,css code as front-end & php as server-side language and additional mysql database to store the student informations.
-i also used Animated.css & Hover.css libraries to make the webpage more attractive & beautiful.
+I have beautified webpage using Animated.css & Hover.css libraries :heart_eyes:.
 
 # Getting Strated
 
