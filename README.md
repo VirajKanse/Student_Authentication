@@ -2,6 +2,7 @@
 
 Hi guys :blush:, this my sem mini project Student_Authentication system. 
 I have used html,css code as front-end & php as server-side language and additional mysql database to store the student informations.
+i also used Animated.css & Hover.css libraries to make the webpage more attractive & beautiful.
 
 # Getting Strated
 
@@ -41,14 +42,14 @@ I have used html,css code as front-end & php as server-side language and additio
    ```
    localhost/Student_Authentication
    ```
-   and Hit enter !
+   and Hit enter !<br>
 12. Tadaaa !!!!! ,  :grinning: :sunglasses:
     now you can register your details and login
     
 ## Usage
 
 This is very simple student authentication form, just we have to register and then login,
-all your data will be saved at your "registration" under "users" table
+all your data will be saved at your database "registration" under "users" table
 
 ## Contributing
 
