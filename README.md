@@ -10,6 +10,7 @@ i also used Animated.css & Hover.css libraries to make the webpage more attracti
 
 * A little brain :satisfied:
 * 32/64 bit Windows 7/8/10 || linux Distro || Mac OS
+* Git installed
 * Any text editor SublimeText3/Brackets/NPP/Notepad (Sublime Recommended)
 * XAMPP/WAMP/MAMP (XAMPP Recommended, may be depends upon your OS)
 
@@ -17,7 +18,11 @@ i also used Animated.css & Hover.css libraries to make the webpage more attracti
 
 1. Install any text editor (Sublime Recommended)
 2. Install XAMPP/WAMP/MAMP
-3. Download this repo 
+3. Clone this repo :
+   
+   ```
+   git clone https://github.com/VirajKanse/Student_Authentication
+   ```
 4. copy paste repo to Drive:\xampp\htdocs
 5. Open XAMPP and start Apache & Mysql
 6. Now, open your browser and type :
