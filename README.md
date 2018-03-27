@@ -77,3 +77,7 @@ all your data will be saved at your database "registration" under "users" table
 - Suraj Khot
 - Internet :grin:.
 
+
+### License
+ - [MIT License.](https://opensource.org/licenses/MIT)
+
