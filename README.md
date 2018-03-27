@@ -75,4 +75,5 @@ all your data will be saved at your database "registration" under "users" table
 - Viraj Kanse(me) :stuck_out_tongue_winking_eye:
 - Prathamesh Jadhav
 - Suraj Khot
-- Internet :grin:
+- Internet :grin:.
+
