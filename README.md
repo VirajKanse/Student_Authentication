@@ -31,7 +31,7 @@ I have beautified webpage using Animated.css & Hover.css libraries :heart_eyes:.
    ```
 4. copy paste repo to Drive:\xampp\htdocs
 5. Open XAMPP and start Apache & Mysql
-6. Now, open your browser and type :
+6. Now, open your browser's URL bar and type :
 
    ```
    localhost/phpmyadmin
