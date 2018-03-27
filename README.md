@@ -4,6 +4,16 @@ Hi guys :blush:, this my sem mini project Student_Authentication system.
 I have used html,css code as front-end & php as server-side language and additional mysql database to store the student informations.
 I have beautified webpage using Animated.css & Hover.css libraries :heart_eyes:.
 
+
+
+![registration form screenshot](https://raw.githubusercontent.com/VirajKanse/Student_Authentication/master/screenshots/p1.png)
+
+
+
+
+
+
+
 # Getting Strated
 
 ## Prerequisites
