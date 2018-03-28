@@ -23,6 +23,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" type="text/css" href="hover.css">
 	<link rel="stylesheet" type="text/css" href="animate.css">
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" media="all">
 </head>
 <body>
 	<div class="header">
@@ -45,7 +46,7 @@
 		<!-- logged in user information -->
 		<?php  if (isset($_SESSION['rl'])) : ?>
 			<p>Welcome <strong class="hvr-bounce-in"><?php echo "Student ⊂((・▽・))⊃"; ?></strong></p>
-			<p> <a href="index.php?logout='1'" style="color: red;">logout</a> </p>
+			<p> <a href="index.php?logout='1'" class="hvr-icon-hang">logout</a> </p>
 		<?php endif ?>
 	</div>
 	<p class="dev">@VirajKanse(ADevDX)</p>
