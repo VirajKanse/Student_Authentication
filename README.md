@@ -74,9 +74,11 @@ all your data will be saved at your database "registration" under "users" table
 - Viraj Kanse(me) :stuck_out_tongue_winking_eye:
 - Prathamesh Jadhav
 - Suraj Khot
+- Awa Melvine (For his valuable guide)
 - Internet :grin:.
 
 
 ### License
- - [MIT License.](https://opensource.org/licenses/MIT) Copyright (c) 2018 VirajKanse(ADevDX)
+ - [MIT License](https://opensource.org/licenses/MIT) 
+ - [License](https://github.com/VirajKanse/Student_Authentication/blob/master/LICENSE) Copyright (c) 2018 VirajKanse(ADevDX)
 
