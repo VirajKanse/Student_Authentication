@@ -5,9 +5,8 @@ I have used html,css code as front-end & php as server-side language and additio
 I have beautified webpage using Animated.css & Hover.css libraries :heart_eyes:.
 
 <p align="center">
-<img src="https://github.com/VirajKanse/Student_Authentication/blob/master/screenshots/p1.PNG">
-<img src="https://github.com/VirajKanse/Student_Authentication/blob/master/screenshots/p2.PNG">
-<img src="https://github.com/VirajKanse/Student_Authentication/blob/master/screenshots/p3.PNG">
+<img src="https://github.com/VirajKanse/Student_Authentication/blob/master/gifs/register.gif">
+<img src="https://github.com/VirajKanse/Student_Authentication/blob/master/gifs/login.gif">
 </p>
 
 ## Getting Strated
@@ -79,5 +78,5 @@ all your data will be saved at your database "registration" under "users" table
 
 
 ### License
- - [MIT License.](https://opensource.org/licenses/MIT)
+ - [MIT License.](https://opensource.org/licenses/MIT) Copyright (c) 2018 VirajKanse(ADevDX)
 
