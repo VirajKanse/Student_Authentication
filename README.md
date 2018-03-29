@@ -1,5 +1,9 @@
 # Student_Authentication
 
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) <br>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
+
 Hi guys :blush:, this my sem mini project Student_Authentication system. 
 I have used html,css code as front-end & php as server-side language and additional mysql database to store the student informations.
 I have beautified webpage using Animated.css & Hover.css libraries :heart_eyes:.
@@ -10,6 +14,8 @@ I have beautified webpage using Animated.css & Hover.css libraries :heart_eyes:.
 </p>
 
 ## Getting Strated
+
+   [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
 ### Prerequisites
 
@@ -24,6 +30,8 @@ I have beautified webpage using Animated.css & Hover.css libraries :heart_eyes:.
 1. Install any text editor (Sublime Recommended)
 2. Install XAMPP/WAMP/MAMP
 3. Clone this repo :
+
+   [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
    
    ```
    git clone https://github.com/VirajKanse/Student_Authentication
@@ -79,6 +87,8 @@ all your data will be saved at your database "registration" under "users" table
 
 
 ### License
- - [MIT License](https://opensource.org/licenses/MIT) 
- - [License](https://github.com/VirajKanse/Student_Authentication/blob/master/LICENSE) Copyright (c) 2018 VirajKanse(ADevDX)
+
+  [![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) <br>
+  [Copyright (c) 2018 VirajKanse(ADevDX)](https://github.com/VirajKanse/Student_Authentication/blob/master/LICENSE)
+   
 
