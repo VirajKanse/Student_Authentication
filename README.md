@@ -24,7 +24,7 @@ I have beautified webpage using Animated.css & Hover.css libraries :heart_eyes:.
 ### Prerequisites
 
 * A little brain :satisfied:
-* 32/64 bit Windows 7/8/10 || linux Distro || Mac OS
+* 32/64 bit Windows 7/8/10 or linux Distro or Mac OS
 * Git installed
 * Any text editor SublimeText3/Brackets/NPP/Notepad (Sublime Recommended)
 * XAMPP/WAMP/MAMP (XAMPP Recommended, may be depends upon your OS)
