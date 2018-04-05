@@ -1,3 +1,11 @@
+<p align="center">
+<img src="https://github.com/VirajKanse/Student_Authentication/blob/master/screenshots/tkiet.png">
+</p> <br>
+
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) <br>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
+
 # Student_Authentication
 
 Hi guys :blush:, this my sem mini project Student_Authentication system. 
@@ -11,10 +19,12 @@ I have beautified webpage using Animated.css & Hover.css libraries :heart_eyes:.
 
 ## Getting Strated
 
+   [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+
 ### Prerequisites
 
 * A little brain :satisfied:
-* 32/64 bit Windows 7/8/10 || linux Distro || Mac OS
+* 32/64 bit Windows 7/8/10 or linux Distro or Mac OS
 * Git installed
 * Any text editor SublimeText3/Brackets/NPP/Notepad (Sublime Recommended)
 * XAMPP/WAMP/MAMP (XAMPP Recommended, may be depends upon your OS)
@@ -24,6 +34,8 @@ I have beautified webpage using Animated.css & Hover.css libraries :heart_eyes:.
 1. Install any text editor (Sublime Recommended)
 2. Install XAMPP/WAMP/MAMP
 3. Clone this repo :
+
+   [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
    
    ```
    git clone https://github.com/VirajKanse/Student_Authentication
@@ -74,9 +86,13 @@ all your data will be saved at your database "registration" under "users" table
 - Viraj Kanse(me) :stuck_out_tongue_winking_eye:
 - Prathamesh Jadhav
 - Suraj Khot
+- Awa Melvine (For his valuable guide)
 - Internet :grin:.
 
 
 ### License
- - [MIT License.](https://opensource.org/licenses/MIT) Copyright (c) 2018 VirajKanse(ADevDX)
+
+  [![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) <br>
+  [Copyright (c) 2018 VirajKanse(ADevDX)](https://github.com/VirajKanse/Student_Authentication/blob/master/LICENSE)
+   
 
