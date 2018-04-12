@@ -8,9 +8,10 @@
 
 # Student_Authentication
 
-Hi guys :blush:, this my sem mini project Student_Authentication system. 
+Hi guys :blush:, this my sem mini project [Student_Authentication_System](http://adevdx.ezyro.com). 
 I have used html,css code as front-end & php as server-side language and additional mysql database to store the student informations.
 I have beautified webpage using Animated.css & Hover.css libraries :heart_eyes:.
+You can see the page here... but I really recommend [visiting the page](http://adevdx.ezyro.com) to see the small animations that really makes page more amazing :new_moon_with_face:.
 
 <p align="center">
 <img src="https://github.com/VirajKanse/Student_Authentication/blob/master/gifs/register.gif">
