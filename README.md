@@ -93,7 +93,7 @@ all your data will be saved at your database "registration" under "users" table
 
 ### License
 
-  [![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) <br>
+  [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) <br>
   [Copyright (c) 2018 VirajKanse(ADevDX)](https://github.com/VirajKanse/Student_Authentication/blob/master/LICENSE)
    
 
